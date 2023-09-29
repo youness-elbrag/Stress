@@ -1,0 +1,25 @@
+The Data Description:
+---------------------
+
+Data WESAD: Multimodal Dataset for Wearable Stress and Affect Detection :
+-------------
+WESAD is a publicly available dataset created for the purpose of recognizing a person's affective state, 
+with  the goal of improving human-computer interaction. I
+t addresses the need for continuous and automated stress monitoring systems due to 
+the known negative impact of long-term stress on well-being.
+
+Key Features of WESAD:
+
+    Multimodal Data: WESAD provides high-quality multimodal data, including physiological and motion data.
+    Sensor Locations: Data is recorded from both wrist-worn and chest-worn devices.
+    Sensor Modalities: The dataset includes various sensor modalities, such as blood volume pulse, electrocardiogram, electrodermal activity, electromyogram, respiration, body temperature, and three-axis acceleration.
+    Affective States: WESAD includes data from three different affective states: neutral, stress, and amusement.
+    Self-Reports: Self-reported data from the subjects, obtained using established questionnaires, are part of the dataset.
+    Benchmarking: The dataset is used to create a benchmark, employing standard machine learning methods and well-known features.
+    Classification Accuracy: Classification accuracies of up to 80% are achieved for the three-class classification problem (baseline vs. stress vs. amusement), and up to 93% for the binary case (stress vs. non-stress).
+    Device and Sensor Analysis: The dataset allows for detailed analysis and comparison between the two device locations (chest vs. wrist) and the different sensor modalities.
+
+Data LINK: 
+----------
+
+Link Download : https://ubicomp.eti.uni-siegen.de/home/datasets/icmi18/

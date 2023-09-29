@@ -1,0 +1,19 @@
+The Data Description:
+---------------------
+
+Data SWELL :
+-------------
+The SWELL knowledge work (SWELL-KW)
+dataset was collected by researchers at the Insti-
+tute for Computing and Information Sciences at
+Radboud University and is described in details
+in (Koldijk et al., 2014). It is a result of experi-
+ments conducted on 25 subjects doing typical of-
+fice work (for example writing reports, making pre-
+sentations, reading e-mail and searching for infor-
+mation)
+
+Data LINK: 
+----------
+
+Link Download : https://cs.ru.nl/~skoldijk/SWELL-KW/Dataset.html
