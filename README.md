@@ -75,11 +75,6 @@ The PPG/BVP is the input signal to the algorithms that compute inter-beat-interv
 
 a PPG signal segment, detects RR intervals, and then calls the save_spectrogram function to compute Spectral Field saving spectrogram images in Struct Folders **Stress || Non-Stress**.
 
-  <div align="center">
-        <img src="src/SpectralImages/binary/stress/1_S2_0.png" width="450" height="250" /></br>
-            <figcaption>Stress spectrogram images</figcaption>
-    </div>
-
 
 
 
